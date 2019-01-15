@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/image/splash.png</file>
+        <file>res/image/icon.png</file>
+        <file>res/image/line_hover.png</file>
+        <file>res/image/line_nromal.png</file>
+        <file>res/image/line_pressed.png</file>
+        <file>res/image/cha_hover.png</file>
+        <file>res/image/cha_nromal.png</file>
+        <file>res/image/cha_pressed.png</file>
+        <file>res/image/logo.png</file>
+        <file>res/image/compress_hover.png</file>
+        <file>res/image/compress_normal.png</file>
+        <file>res/image/compress_pressed.png</file>
+        <file>res/image/delete_hover.png</file>
+        <file>res/image/delete_normal.png</file>
+        <file>res/image/delete_pressed.png</file>
+        <file>res/image/tools_hover.png</file>
+        <file>res/image/tools_normal.png</file>
+        <file>res/image/tools_pressed.png</file>
+        <file>res/image/uncompress_hover.png</file>
+        <file>res/image/uncompress_normal.png</file>
+        <file>res/image/uncompress_pressed.png</file>
+        <file>res/image/dialog_close_hover.png</file>
+        <file>res/image/dialog_close_normal.png</file>
+        <file>res/image/dialog_close_pressed.png</file>
+        <file>res/image/last_hover.png</file>
+        <file>res/image/last_normal.png</file>
+        <file>res/image/last_pressed.png</file>
+        <file>res/image/refresh_hover.png</file>
+        <file>res/image/refresh_normal.png</file>
+        <file>res/image/refresh_pressed.png</file>
+        <file>res/image/donate.png</file>
+        <file>res/image/icon.ico</file>
+    </qresource>
+</RCC>
